@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VEC App</string>
+    <string name="about">Sistem ini untuk mendeteksi kendaraan yang masuk ke dalam area parkir kampus PHB kemudian dikelompokan berdasarkan jenis kendaraan dan sistem ini juga dapat dikembangkan untuk menghitung banyaknya  jumlah kendaraan yang masuk.</string>
+</resources>
