@@ -1,5 +1,6 @@
 # Muchammad Nachirul Ichsan/19090023
 # Arwinda Laurisma/19090063
+# 6C
 
 import os, random, string
 from flask import Flask
